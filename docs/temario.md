@@ -78,3 +78,7 @@ https://www.geeksforgeeks.org/functional-programming-paradigm/
 
 ### Composition vs inheritance
 https://reactjs.org/docs/composition-vs-inheritance.html
+
+### File structure
+https://reactjs.org/docs/faq-structure.html\
+https://www.robinwieruch.de/react-folder-structure/
