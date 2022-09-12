@@ -30,12 +30,6 @@ Para entender react primero debemos comprender:
 ### DOM (Document Object Model) and Javascript
 https://www.freecodecamp.org/espanol/news/que-es-el-dom-el-significado-del-modelo-de-objeto-de-documento-en-javascript/
 
-### Modern JS: ES6
-https://www.w3schools.com/js/js_es6.asp
-
-### Truthy, falsy and equality comparations
-https://www.sitepoint.com/javascript-truthy-falsy/
-
 ### Node modules
 https://www.geeksforgeeks.org/node-js-modules/#:~:text=Like%20Article-,In%20Node.,collection%20of%20multiples%20files%2Ffolders.
 
@@ -82,3 +76,24 @@ https://reactjs.org/docs/composition-vs-inheritance.html
 ### File structure
 https://reactjs.org/docs/faq-structure.html\
 https://www.robinwieruch.de/react-folder-structure/
+
+___ 
+
+## Modern Javascript
+### ES6 functions
+https://www.w3schools.com/js/js_es6.asp
+
+* Arrow functions \
+  https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions
+* spread and destructuring operators \
+https://www.digitalocean.com/community/tutorials/understanding-destructuring-rest-parameters-and-spread-syntax-in-javascript
+* Arrays \
+  https://www.freecodecamp.org/news/the-javascript-array-handbook/
+  * map
+  * filter
+  * some 
+  * find 
+  * every
+
+### Truthy, falsy and equality comparations
+https://www.sitepoint.com/javascript-truthy-falsy/
