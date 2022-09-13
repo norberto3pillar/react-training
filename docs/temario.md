@@ -83,6 +83,16 @@ ___
 ### ES6 functions
 https://www.w3schools.com/js/js_es6.asp
 
+### let and const
+https://www.freecodecamp.org/news/var-let-and-const-whats-the-difference/
+
+### export / import 
+https://javascript.info/import-export
+
+### async / await 
+https://javascript.info/async-await
+
+
 * Arrow functions \
   https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions
 * spread and destructuring operators \
