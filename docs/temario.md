@@ -80,11 +80,14 @@ https://www.robinwieruch.de/react-folder-structure/
 ___ 
 
 ## Modern Javascript
-### ES6 functions
+### ES6 
 https://www.w3schools.com/js/js_es6.asp
 
 ### let and const
 https://www.freecodecamp.org/news/var-let-and-const-whats-the-difference/
+
+### expressions and operators
+ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators
 
 ### export / import 
 https://javascript.info/import-export
@@ -107,3 +110,11 @@ https://www.digitalocean.com/community/tutorials/understanding-destructuring-res
 
 ### Truthy, falsy and equality comparations
 https://www.sitepoint.com/javascript-truthy-falsy/
+
+## React 
+
+### class components / function components
+https://www.geeksforgeeks.org/differences-between-functional-components-and-class-components-in-react/#:~:text=Functional%20Components-,Class%20Components,which%20returns%20a%20React%20element.
+
+### hooks and custom hooks
+https://reactjs.org/docs/hooks-intro.html
