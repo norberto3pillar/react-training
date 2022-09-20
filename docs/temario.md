@@ -139,6 +139,14 @@ https://www.geeksforgeeks.org/reactjs-data-binding/#:~:text=Data%20Binding%20is%
 https://www.freecodecamp.org/news/react-context-for-beginners/
 ### High Order Components
 https://www.smashingmagazine.com/2020/06/higher-order-components-react/
+
+### React styled components || css libraries
+* Styled Components \
+https://styled-components.com/
+
+* MUI (Material UI) \
+https://mui.com/material-ui/getting-started/overview/ 
+
 ### React Router
 https://reactrouter.com/en/main/start/overview
 ### React.lazy
