@@ -136,9 +136,14 @@ https://www.geeksforgeeks.org/reactjs-data-binding/#:~:text=Data%20Binding%20is%
 * useCallback
 
 ### React Context
+https://www.freecodecamp.org/news/react-context-for-beginners/
 ### High Order Components
 https://www.smashingmagazine.com/2020/06/higher-order-components-react/
 ### React Router
 https://reactrouter.com/en/main/start/overview
 ### React.lazy
 https://reactjs.org/docs/code-splitting.html
+
+### React Redux
+https://redux.js.org/tutorials/fundamentals/part-5-ui-react \
+https://www.youtube.com/watch?v=9jULHSe41ls
