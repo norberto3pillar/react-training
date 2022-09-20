@@ -77,6 +77,9 @@ https://reactjs.org/docs/composition-vs-inheritance.html
 https://reactjs.org/docs/faq-structure.html\
 https://www.robinwieruch.de/react-folder-structure/
 
+### Split big Components into small ones
+https://joaoforja.com/blog/guideline-on-how-to-decompose-a-react-component
+
 ___ 
 
 ## Modern Javascript
@@ -111,6 +114,10 @@ https://www.digitalocean.com/community/tutorials/understanding-destructuring-res
 ### Truthy, falsy and equality comparations
 https://www.sitepoint.com/javascript-truthy-falsy/
 
+### High Order Functions
+https://dmitripavlutin.com/javascript-higher-order-functions/
+
+---
 ## React 
 
 ### class components / function components
@@ -118,3 +125,20 @@ https://www.geeksforgeeks.org/differences-between-functional-components-and-clas
 
 ### hooks and custom hooks
 https://reactjs.org/docs/hooks-intro.html
+https://www.freecodecamp.org/news/introduction-to-react-hooks/
+
+### useState and data bindling 
+https://www.geeksforgeeks.org/reactjs-data-binding/#:~:text=Data%20Binding%20is%20the%20process,in%20the%20view(UI).
+
+### Re-rendering Optimizations with: 
+* React.Memo
+* useMemo
+* useCallback
+
+### React Context
+### High Order Components
+https://www.smashingmagazine.com/2020/06/higher-order-components-react/
+### React Router
+https://reactrouter.com/en/main/start/overview
+### React.lazy
+https://reactjs.org/docs/code-splitting.html
