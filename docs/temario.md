@@ -22,9 +22,12 @@ Es el manejador de paquetes por default de node, también se puede installar yar
 ```
   npm install --global yarn
 ```
+https://www.freecodecamp.org/news/get-started-with-react-for-beginners/
+
 ___
 
 ##  Entendiendo React 
+
 Para entender react primero debemos comprender:
 
 ### DOM (Document Object Model) and Javascript
